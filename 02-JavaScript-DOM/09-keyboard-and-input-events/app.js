@@ -1,0 +1,2 @@
+// LET and CONST BLOCK SCOPE
+
